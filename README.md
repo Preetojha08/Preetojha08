@@ -44,6 +44,8 @@
 
 
 <p></p>
+
+<p><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15"> </p>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=preetojha08&label=Profile%20views&color=0e75b6&style=flat" alt="preetojha08" /> </p> -->
 
 <!-- https://github-profile-trophy.vercel.app/?username=preetojha08&column=3&margin-w=15&margin-h=15 -->
