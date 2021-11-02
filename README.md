@@ -40,11 +40,7 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=preetojha08&show_icons=true&locale=en&layout=compact" alt="preetojha08" /></p>
 
 <p></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=preetojha08&show_icons=true&locale=en" alt="preetojha08" /></p>
-
-
-<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=preetojha08&column=3&margin-w=15&margin-h=15"></p>
-
+<p align="center">&nbsp;<img align="center" src="https://github-profile-trophy.vercel.app/?username=preetojha08&column=3&margin-w=15&margin-h=15&show_icons=true&locale=en" alt="preetojha08" /></p>
 
 
 <p></p>
