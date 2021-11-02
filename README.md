@@ -34,7 +34,7 @@
 <p></p>
 
 <h3 align="left">Github Profile Trophies & States</h3>
-<p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" padding="10px" src="https://github-profile-trophy.vercel.app/?username=preetojha08" alt="preetojha08" /></a> </p>
+<p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" padding="10px" src="https://github-profile-trophy.vercel.app/?username=preetojha08&column=3&margin-w=15&margin-h=15" alt="preetojha08" /></a> </p>
 
 <p></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=preetojha08&show_icons=true&locale=en&layout=compact" alt="preetojha08" /></p>
@@ -46,6 +46,6 @@
 <p></p>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=preetojha08&label=Profile%20views&color=0e75b6&style=flat" alt="preetojha08" /> </p> -->
 
-<!-- https://github-profile-trophy.vercel.app/?username=preetojha08&column=3&margin-w=15&margin-h=15&show_icons=true&locale=en -->
+<!-- https://github-profile-trophy.vercel.app/?username=preetojha08&column=3&margin-w=15&margin-h=15 -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=preetojha08&" alt="preetojha08" /></p> -->
