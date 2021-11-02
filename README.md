@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Preet Ojha</h1>
 <h3 align="center">A passionate Android Developer and frontend developer from India</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=preetojha08" alt="preetojha08" /></a> </p>
-
+<p></p>
 - 🔭 I’m currently working on **Android Projects**
 
 - 🌱 I’m currently learning **Flutter, Figma**
@@ -34,6 +33,8 @@
 <p></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preetojha08&label=Profile%20views&color=0e75b6&style=flat" alt="preetojha08" /> </p>
 
+<p></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=preetojha08" alt="preetojha08" /></a> </p>
 
 <p></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=preetojha08&show_icons=true&locale=en&layout=compact" alt="preetojha08" /></p>
