@@ -33,7 +33,7 @@
 
 <p></p>
 
-<h3 align="left">Github Profile Trophies</h3>
+<h3 align="left">Github Profile Trophies & States</h3>
 <p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" padding="10px" src="https://github-profile-trophy.vercel.app/?username=preetojha08" alt="preetojha08" /></a> </p>
 
 <p></p>
