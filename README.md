@@ -43,6 +43,10 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=preetojha08&show_icons=true&locale=en" alt="preetojha08" /></p>
 
 
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=preetojha08&column=3&margin-w=15&margin-h=15"></p>
+
+
+
 <p></p>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=preetojha08&label=Profile%20views&color=0e75b6&style=flat" alt="preetojha08" /> </p> -->
 
