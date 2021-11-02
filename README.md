@@ -34,7 +34,9 @@
 <p></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preetojha08&label=Profile%20views&color=0e75b6&style=flat" alt="preetojha08" /> </p>
 
+
 <p></p>
+<h3 align="left">Github Profile Trophies</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=preetojha08" alt="preetojha08" /></a> </p>
 
 <p></p>
