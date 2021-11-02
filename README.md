@@ -34,7 +34,7 @@
 <p></p>
 
 <h3 align="left">Github Profile Trophies & States</h3>
-<p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" padding="10px" src="https://github-profile-trophy.vercel.app/?username=preetojha08" alt="preetojha08" /></a> </p>
+<p align="center" > <a  align="center" padding="10px" href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" padding="10px" src="https://github-profile-trophy.vercel.app/?username=preetojha08" alt="preetojha08" /></a> </p>
 
 <p></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=preetojha08&show_icons=true&locale=en&layout=compact" alt="preetojha08" /></p>
