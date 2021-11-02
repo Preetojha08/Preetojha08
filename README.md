@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently learning **Flutter, Figma**
 
-- 👨‍💻 All of my projects are available at [https://preetojha08.github.io/Basic-Personal-Portfolio-Website/#home_1](https://preetojha08.github.io/Basic-Personal-Portfolio-Website/#home_1)
+- 👨‍💻 All of my projects are available at [Preet's Projects](https://preetojha08.github.io/Basic-Personal-Portfolio-Website/#home_1)
 
-- 📝 Application On Google Playstore [https://play.google.com/store/apps/developer?id=Creaturesl](https://play.google.com/store/apps/developer?id=Creatures)
+- 📝 Application On Google Playstore [Creatures](https://play.google.com/store/apps/developer?id=Creatures)
 
 - 💬 Ask me about **Android Development And All**
 
 - 📫 How to reach me **developer.preet08@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/113ARn7Bo0LbMeyyue9mXMjBej3Navrqy/view](https://drive.google.com/file/d/113ARn7Bo0LbMeyyue9mXMjBej3Navrqy/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/113ARn7Bo0LbMeyyue9mXMjBej3Navrqy/view)
 
 - ⚡ Fun fact **I can Code without Music 🤣🤣** 
 
