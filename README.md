@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/113ARn7Bo0LbMeyyue9mXMjBej3Navrqy/view](https://drive.google.com/file/d/113ARn7Bo0LbMeyyue9mXMjBej3Navrqy/view)
 
-- ⚡ Fun fact **I can Code without Music 🤣🤣**
+- ⚡ Fun fact **I can Code without Music 🤣🤣** 
 
 
 <h3 align="left">Connect with me:</h3>
