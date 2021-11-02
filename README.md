@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Preet's Projects](https://preetojha08.github.io/Basic-Personal-Portfolio-Website/#home_1)
 
-- 📝 Application On Google Playstore [Creatures](https://play.google.com/store/apps/developer?id=Creatures)
+- 📝 Application On Google Playstore [Under Creatures](https://play.google.com/store/apps/developer?id=Creatures)
 
 - 💬 Ask me about **Android Development And All**
 
@@ -42,7 +42,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=preetojha08&show_icons=true&locale=en&layout=compact" alt="preetojha08" /></p>
 
 <p></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=preetojha08&show_icons=true&locale=en" alt="preetojha08" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=preetojha08&show_icons=true&locale=en" alt="preetojha08" /></p>
 
 
 <p></p>
