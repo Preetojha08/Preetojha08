@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Preet Ojha</h1>
-<h3 align="center">A passionate Android Developer and frontend developer from India</h3>
+<h3 align="center">A passionate Android Developer and Frontend Developer from India</h3>
 
 <p></p>
 
